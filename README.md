@@ -23,16 +23,6 @@ This project is a simple and interactive To-Do List web application developed us
 
 ---
 
-## 📂 Project Structure
-
-TO-DO-List-using-HTML-CSS-and-JS/
-│── index.html
-│── style.css
-│── script.js
-│── README.md
-
----
-
 ## 📸 Screenshots
 
 <img width="565" height="581" alt="image" src="https://github.com/user-attachments/assets/4f6cddf9-11fa-4141-96b2-8c4ffc639c5f" />
